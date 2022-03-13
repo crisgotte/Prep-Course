@@ -1,0 +1,22 @@
+Ejercicio: En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+Objetos: Es un conjunto de elementos separados por comas.
+
+Propiedades: Es un elemento de un objeto, contiene un nombre o clave y un valor.
+
+Métodos: Es una funcion que contiene un objeto.
+
+Bucle 'for...in': Es similar al for tradicional, dentro de los parentesis se declara una variable, la palable clave "in" y el nombre del objeto. 
+Esto recorre una a una todas las claves del objeto.
+
+Notacion de puntos vs notacion de corchetes: La primera me permite acceder facilmente a la propiedad y su valor, mientras que la notacion de corchetes me permite 
+utilizar variables
+
+
